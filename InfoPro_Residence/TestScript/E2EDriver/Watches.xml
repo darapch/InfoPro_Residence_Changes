@@ -1,0 +1,5 @@
+﻿<Properties>
+  <WatchEntry0 value="TEWindow(&quot;InfoProWindow&quot;).TEScreen(&quot;BIGAA014R&quot;).TEField(&quot;SalesTransactionDetails&quot;).Exist(5)" />
+  <WatchEntry1 value="TeWindow(&quot;InfoProWindow&quot;).TeScreen(&quot;DisplayProgramMessages&quot;).TeField(&quot;text:=&quot; &amp; strText).Exist(3)" />
+  <WatchEntry2 value="strText" />
+</Properties>
