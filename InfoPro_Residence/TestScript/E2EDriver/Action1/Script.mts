@@ -35,11 +35,11 @@ Environment.Value("WarningFlag") = ""
 Environment.Value("FailureReason") = ""
 
 
-Environment.Value("QuoteNum") = Environment("QuoteNumber") '"B20171" '
-Environment.Value("LOB") = Environment("LOB") '"Residence_24Months_Container" '
+Environment.Value("QuoteNum") =   Environment("QuoteNumber")
+Environment.Value("LOB") =  Environment("LOB")
 
-Environment.Value("UName") = Environment("UsName") '"darapch" '
-Environment.Value("Password") = Environment("PWORD") '"Sachin8187" '
+Environment.Value("UName") =  Environment("UsName") '"darapch"
+Environment.Value("Password") =  Environment("PWORD")
 
 
 
