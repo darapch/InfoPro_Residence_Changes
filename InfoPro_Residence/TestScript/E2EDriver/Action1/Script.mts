@@ -35,7 +35,7 @@ Environment.Value("WarningFlag") = ""
 Environment.Value("FailureReason") = ""
 
 
-Environment.Value("QuoteNum") =   Environment("QuoteNumber")
+Environment.Value("QuoteNum") = Environment("QuoteNumber")
 Environment.Value("LOB") =  Environment("LOB")
 
 Environment.Value("UName") =  Environment("UsName") '"darapch"
